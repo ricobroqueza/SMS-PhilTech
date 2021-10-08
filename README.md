@@ -1,5 +1,6 @@
 {
-"SendMessage":19,"
-MyMessage":"ANNOUCEMENT WELCOME THIS APK GUIDES FOR SERVER Asia 15 servers available Dont for Get input 𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 𝒑𝒂𝒔𝒔𝒘𝒐𝒓𝒅:To Create Panel Site Asia 15 servers available (Happy Surfing VIP PANEL but PAID SERVERS:https:unlissh.com/ Special Thanks & Cridits" Owner Of Server Panel Site Tyler Alvarez For more Update please contact me 📞09511335208 Owner Application:Rico broqueza Agao
-"
-}
+ "versionCode": "1.1.7",
+ "url": "https://dropmb.com/files/9437fd210fc6672914b062821296ef9c.apk",
+ "Message": "PhilTech Tunnel v4 (SSH+WS/SlowDNS/SSL/SSL+WS)\n\nNew Build with new Features\n\n-Fix some Bugs\n\n-Working for Android 8-11\n\n-Added SSL/TLS + PROXY + HTTP\n\n-New Light MB\n\nNote: Uninstall the OLD APPLICATION before installing this new update.\n\n\nThank you!
+\n\nUpdate please contact me 📞09511335208 \n\nOwner Application:Rico broqueza Agao"
+ }
